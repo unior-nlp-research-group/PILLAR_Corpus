@@ -1,7 +1,7 @@
 # PILLAR_Corpus
 The PILLAR (Parallel ItaLian engLish ARchaeological) Corpus[^1] is an Italian-English parallel corpus composed of bi-texts from the archaeological domain in the form of museums and archaeological sites' brochures, leaflets, guides and websites. 
 
-Texts are crawled from the web and belongs to a time span ranging from 2006 to 2020.
+Texts are crawled from the web and belong to a time span ranging from 2006 to 2020.
 
 It consists of 200k tokens in Italian and 200k tokens in English.
 
